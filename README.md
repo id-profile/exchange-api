@@ -12,7 +12,7 @@
 - No Rate limits
 - 200+ Currencies, Including Common Cryptocurrencies & Metals
 - Daily Updated
-
+- use the [Libra AI](libra.rupora.shop)
 
 #### URL Structure:
 
